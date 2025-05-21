@@ -43,18 +43,17 @@ Team<TeamNumber><USN><ShortTopicName>
 4. **Send it to GitHub**  
    - Back in the terminal:
      ```bash
-     git add Team05_1RV21CS001_SmartIrrigation/
+     git add Team05_ENG22DS0039_SmartIrrigation/
      git commit -m "Team 05: Smart Irrigation (1RV21CS001)"
      git push origin main
      ```
-   - If `main` isn’t found, try `master`.
 
 ---
 
 ## Option 2: GitHub Website (No Git Needed)
 
 1. Open the repo in your browser:  
-   `https://github.com/your-org/your-repo`
+   `https://github.com/nitinprajwal/DL-Project`
 
 2. Click **Add file → Upload files**.
 
